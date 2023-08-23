@@ -1,0 +1,30 @@
+html{
+    background: bisque;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+}
+
+h2{
+    color : royalblue;
+}
+
+
+p{ 
+    font-weight: 200;
+}
+
+
+.font{
+    font-weight: 200;
+}
+
+.h{
+    color: red;
+}
